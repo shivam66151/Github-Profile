@@ -1,2 +1,2 @@
 # Github-Profile
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam66151&hide=contribs,prs&show_icons=true)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam66151&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
