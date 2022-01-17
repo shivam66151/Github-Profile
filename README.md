@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Advance Javascript Projects**
+- 🔭 I’m currently working on **Advance CSS & Javascript Projects**
 
 - 🌱 I’m currently learning **React & NodeJS**
 
