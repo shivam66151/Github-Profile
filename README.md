@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Advance CSS & Javascript Projects**
 
-- 🌱 I’m currently learning **React & NodeJS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **sharmashivam66151@gmail.com**
 
