@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamuni55" target="blank"><img src="https://img.shields.io/twitter/follow/shivamuni55?logo=twitter&style=for-the-badge" alt="shivamuni55" /></a> </p>
 
-- 💻 I’m currently working on **Javascript projects**
+- 💻 I’m currently working on **UI projects**
 
 - 📕 I’m currently learning **React & NodeJS**
 
