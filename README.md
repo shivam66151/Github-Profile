@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **React Projects**
+- 🐱‍👤 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Backend Tech**
+- 📕 I’m currently learning **Backend Tech**
 
-- 📫 How to reach me **sharmashivam66151@gmail.com**
+- 👀 How to reach me **sharmashivam66151@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
