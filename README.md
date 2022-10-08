@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate and budding full stack developer</h3>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **sharmashivam66151@gmail.com**
 
