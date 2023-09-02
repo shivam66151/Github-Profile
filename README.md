@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam66151" alt="shivam66151" /></a> </p>
-
 - 🌱 I’m currently learning **AWS and Devops**
 
 - 📫 How to reach me **sharmashivam66151@gmail.com**
