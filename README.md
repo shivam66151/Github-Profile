@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma</h1>
-<h3 align="center">A passionate **Software Developer** from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **AWS and Devops**
+- 🌱 I’m currently learning Data Engineering Concepts
 
 - 📫 How to reach me **sharmashivam66151@gmail.com**
 
